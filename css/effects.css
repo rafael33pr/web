@@ -1,0 +1,24 @@
+.box1{
+    width:40px;
+    height:13px;
+    float:left;
+    font-size:.6em; color:#fff; background:#99CC00;
+    font-family:Arial, Helvetica, sans-serif;
+    position:absolute;
+    z-index:10;
+}
+.box2{
+    width:40px;
+    height:auto;
+    float:left;
+    font-size:.6em; color:#fff; background:#FF6600;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:0px;
+    opacity:.8;
+    filter: alpha(opacity=75);
+    position:absolute;
+    top: 25px;
+    position:absolute;
+    z-index:0;
+}
+
