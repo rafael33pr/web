@@ -1,4 +1,4 @@
-/*!
+ /*!
  * Start Bootstrap - Stylish Portfolio Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
@@ -230,10 +230,22 @@ hr.small {
 .portfolio-item {
     margin-bottom: 30px;
 }
-.portfolio  h2{
-	letter-spacing:7px;
+.portfolio p {
+	font-family: 'Open Sans', sans-serif;
+	}
+.about p {
+	font-family: 'Open Sans', sans-serif;
+	}
+.about h2 {
+letter-spacing:3px;
 	color:#155d7b;
-	font-family:impact;
+	font-family: 'Open Sans', sans-serif;
+	}
+	
+.portfolio  h2{
+	letter-spacing:3px;
+	color:#155d7b;
+	font-family: 'Open Sans', sans-serif;
 	}
 
 .img-portfolio {
@@ -271,11 +283,13 @@ hr.small {
 footer {
     padding: 100px 0;
 	font-size:20px;
-	font-family:Monospaces;
-
+	
 		
 }
 .footer ul {
 	color:red;
 	}
 	
+.contact h4 {
+	font-family: 'Open Sans', sans-serif;
+	}
