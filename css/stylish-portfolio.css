@@ -206,7 +206,13 @@ hr.small {
 .service-item {
     margin-bottom: 30px;
 }
-
+.services h2 h1 h3 h4 {
+	letter-spacing:3px;
+	color:#155d7b;
+	font-family: 'Open Sans', sans-serif;
+}
+	
+}
 /* Callout */
 
 .callout {
