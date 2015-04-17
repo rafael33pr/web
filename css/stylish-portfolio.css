@@ -206,7 +206,20 @@ hr.small {
 .service-item {
     margin-bottom: 30px;
 }
-
+.services h2, h1, h3 ,h4 {
+	letter-spacing:3px;
+	color:#ffffff;
+	font-family: 'Open Sans', sans-serif;
+}
+.services p {
+	letter-spacing:3px;
+	color:#ffffff;
+	font-family: 'Open Sans', sans-serif;
+	
+}
+.fa-stack{
+	color:#fff;
+}
 /* Callout */
 
 .callout {
