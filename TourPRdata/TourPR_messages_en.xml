@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano9_title"><![CDATA[museo hist2]]></data>
+  <data name="en_spotpoint16_tooltip"><![CDATA[Pal Rio]]></data>
+
+
+  <data name="en_pano10_title"><![CDATA[playadelbajo]]></data>
+
+
+  <data name="en_pano14_title"><![CDATA[ataud2]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_dpadprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="en_controlBar_dpadnextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="en_controlBar_dpadzoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_dpadzoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_dpadmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_dpadmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_dpadmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_dpadmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_dpadopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_dpadcloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_dpadautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_dpadautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_dpaddisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_dpadhideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_dpaddisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_dpadhideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_dpadctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_dpadctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+
+
+
+
+
+
+
+
+
+</krpano>
